@@ -22,6 +22,7 @@ export const modelOptions: ModelOptions[] = [
   'gpt-3.5-turbo-16k',
   'gpt-4',
   'gpt-4-32k',
+  'ft:gpt-3.5-turbo-0613:personal::7t8ZM2Cr',
   // 'gpt-3.5-turbo-0301',
   // 'gpt-4-0314',
   // 'gpt-4-32k-0314',
